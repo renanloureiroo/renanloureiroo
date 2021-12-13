@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente estudando Front-end com Next.js, e back-end com node.js, express, typeORM.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
