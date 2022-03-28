@@ -5,7 +5,7 @@
 - 🌱 Atualmente estudando Front-end com Next.js, e back-end com node.js, express, typeORM.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/renanloureiroo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanloureiroo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanloureiroo&layout=compact&theme=tokyonight"/>
 </div>
