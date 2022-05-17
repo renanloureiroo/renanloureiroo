@@ -2,7 +2,9 @@
 
 
 
-- 🌱 Atualmente estudando Front-end com Next.js, e back-end com node.js, express, typeORM.
+- Front-end developer, na jornada de se tornar um full stack.
+
+- Atualmente criando um projeto para animais abandonados, faça contato se quiser fazer parte ou saber mais sobre o projeto.
 
 <div align="center">
   <a href="https://github.com/renanloureiroo">
