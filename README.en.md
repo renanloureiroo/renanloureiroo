@@ -1,7 +1,7 @@
 <h1 align="center">Renan Loureiro</h1>
 
 <p align="center">
-  Desenvolvedor full stack, Vitória-ES
+  Full stack developer, Vitória-ES, Brazil
 </p>
 
 <p align="center">
@@ -13,16 +13,16 @@
 
 <!-- README-I18N:START -->
 
-**Português** | [English](./README.en.md)
+[Português](./README.md) | **English**
 
 <!-- README-I18N:END -->
 
 ---
 
-Trabalho principalmente com mobile em React Native e backend em Node e Java. Hoje estou na Sonda.
+I work mostly with mobile in React Native and backend in Node and Java. Currently at Sonda.
 
-Estou cursando um MBA em arquitetura de software, então boa parte do meu tempo de estudo vai para DDD, sistemas distribuídos e mensageria.
+I'm taking an MBA in software architecture, so most of my study time goes to DDD, distributed systems and messaging.
 
-O outro assunto que me ocupa é desenvolvimento com agentes de IA: harness engineering, spec-driven development, skills e servidores MCP. Quase tudo que publico aqui ultimamente vem de um desses dois lados.
+The other thing keeping me busy is development with AI agents: harness engineering, spec-driven development, skills and MCP servers. Almost everything I publish here lately comes from one of these two sides.
 
-Escrevo sobre esses assuntos no Medium de vez em quando. Se quiser trocar uma ideia, me chama no LinkedIn.
+I write about these topics on Medium every now and then. If you want to talk about any of that, reach me on LinkedIn.
