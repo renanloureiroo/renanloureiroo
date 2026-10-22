@@ -1,14 +1,13 @@
-<h1 align="center">Renan Loureiro</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a7da0d0f-d23b-4e08-a52f-4ac4cc048454">
+  <img alt="Renan Loureiro, full stack developer in Vitória-ES, Brazil" src="https://github.com/user-attachments/assets/ecb9f071-8ef9-4e1a-b843-7b46ba0d353d" width="100%">
+</picture>
 
-<p align="center">
-  Full stack developer, Vitória-ES, Brazil
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/renanloureiroo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@renanloureiro.dev"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://instagram.com/renanloureiroo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:renanloureiro.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<p>
+  <a href="https://www.linkedin.com/in/renanloureiroo">LinkedIn</a> ·
+  <a href="https://medium.com/@renanloureiro.dev">Medium</a> ·
+  <a href="https://instagram.com/renanloureiroo">Instagram</a> ·
+  <a href="mailto:renanloureiro.dev@gmail.com">Email</a>
 </p>
 
 <!-- README-I18N:START -->
